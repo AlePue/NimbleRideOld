@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>NimbleRide.xcscheme</key>
+		<key>Nimble.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>ED4D04421D8C9D1E002045C8</key>
+		<key>EDDFD9991DC82916007F5DDB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>ED4D045A1D8C9D1E002045C8</key>
+		<key>EDDFD9B11DC82916007F5DDB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>ED4D04651D8C9D1E002045C8</key>
+		<key>EDDFD9BC1DC82916007F5DDB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

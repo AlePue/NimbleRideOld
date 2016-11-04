@@ -1,21 +1,15 @@
 //
-//  DataViewController.swift
+//  ViewController.swift
 //  NimbleRide
 //
-//  Created by Alejandro Puente on 9/16/16.
+//  Created by Alejandro Puente on 10/31/16.
 //  Copyright © 2016 Alejandro Puente. All rights reserved.
 //
 
 import UIKit
 
-class DataViewController: UIViewController {
+class ViewController: UIViewController {
 
-    @IBOutlet weak var dataLabel: UILabel!
-    var dataObject: String = ""
-
-
-    @IBOutlet var Table: [UITableView]!
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -24,11 +18,6 @@ class DataViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
-    }
-
-    override func viewWillAppear(animated: Bool) {
-        super.viewWillAppear(animated)
-        self.dataLabel!.text = dataObject
     }
 
 

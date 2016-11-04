@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  NimbleRide
+//  Nimble
 //
 //  Created by Alejandro Puente on 10/31/16.
 //  Copyright © 2016 Alejandro Puente. All rights reserved.

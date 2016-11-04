@@ -1,6 +1,6 @@
 //
-//  NimbleRideUITests.swift
-//  NimbleRideUITests
+//  NimbleUITests.swift
+//  NimbleUITests
 //
 //  Created by Alejandro Puente on 10/31/16.
 //  Copyright © 2016 Alejandro Puente. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class NimbleRideUITests: XCTestCase {
+class NimbleUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
